@@ -39,7 +39,7 @@
 							}
                             ?>
 </td>
- <td><img src="image/<?php echo $rows['icon'] ?>" width="40" height="40" /></td>
+ <td><img src="../image/<?php echo $rows['icon'] ?>" width="40" height="40" /></td>
 <td>
 	<a href="theloai_sua.php?idTL=<?php echo $rows['idTL'];?>">Sua</a>
 </td>
